@@ -1,0 +1,11 @@
+Projeto inicial:
+
+1 - Tela inicial, antes do jogo;
+2 - O botão deve ser de uma cor que o cérebro reaja mais rapidamente;
+3 - Uma mensagem de parabéns após pressionar o botão;
+4 - Efeito sonoro ao clicar no botão (simples e de baixo estímulo)
+5 - Botão limpo, apenas uma cor sólida;
+
+
+
+Nota do desenvolvedor: Talvez futuramente implementar métricas de desempenho para acompanhar avanço.

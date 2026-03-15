@@ -1,0 +1,24 @@
+body {
+    background-color: #ffffbf;
+}
+
+.painel {
+    margin: auto;
+    width: 500px;
+    height: 500px;
+    background-color: aqua;
+    border-radius: 20px;
+    text-align: center;
+    padding-top: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#alvo{
+    position: absolute;
+    height: 80px;
+    width: 80px;
+    background-color: white;
+    border: white;
+    border-radius: 50px;
+    margin-left: -40px;
+}
